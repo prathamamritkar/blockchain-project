@@ -2,7 +2,7 @@ To run this cloned **ICP project** through GitHub, follow these steps:
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/Chakri7reddy/freelance
+git clone https://github.com/prathamamritkar/blockchain-project
 cd freelance
 ```
 
